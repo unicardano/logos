@@ -1,4 +1,4 @@
-# SushiSwap Logo
+# UniCardano Logos
 
 ## Requirements
 
